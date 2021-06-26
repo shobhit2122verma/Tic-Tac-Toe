@@ -1,0 +1,19 @@
+{
+  "name": "tictactoe",
+  "version": "1.0.0",
+  "description": "A board based Two player game",
+  "main": "TicTacToe",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/shobhit2122verma/Tic-Tac-Toe.git"
+  },
+  "author": "Shobhit Verma",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shobhit2122verma/Tic-Tac-Toe/issues"
+  },
+  "homepage": "https://github.com/shobhit2122verma/Tic-Tac-Toe#readme"
+}
